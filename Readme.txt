@@ -1,0 +1,1 @@
+This project contains feature regarding health. The output is to predict whether someone will have diabetes or not
